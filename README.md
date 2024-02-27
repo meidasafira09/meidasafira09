@@ -1,27 +1,20 @@
 # Hi there, I'm Meida Safira 👋
-## About me:
-- Experience as Software Quality Assurance (Manual and Automation testing)
-- Familiar with tools automation: Robot framework, Katalon and Postman.
-- Having knowledge SQL and scripting
-- Strong understanding of SDLC and STLC
+## 📌 About me:
+- Software QA Engineer (Manual and Automation testing)
+- Automation tools: Robot framework, Katalon and Postman.
 - Proficient in developing test plans, test cases, report bugs and other required test documentation
 - Skilled executed Integration, Regression, Smoke test, Sanity, API Test, and UAT testing.
-- I have great communication, problem solving and attention to detail which helped to produce great quality software.
   
-- 📫 How to reach me: meidasafira53@gmail.com || www.linkedin.com/in/meida-safira
-- 💬 Ask me about anything
+- 📫 How to reach me: meidasafira53@gmail.com || www.linkedin.com/in/meida-safira 
 
-## Education:
+## 🎓 Education:
 
-#### 1. [Universitas Ahmad Dahlan](https://uad.ac.id/en/) | Bachelor of Computer Science | Yogyakarta `2018-2022`
-   - GPA 3.71/4.00 – Cumlaude
-   - Practice Assistance of Web Technology
-   - Practice Assistance of Computer Networks
+#### [Universitas Ahmad Dahlan](https://uad.ac.id/en/) | `3 Sept 2018 - 22 Aug 2022`
+- Bachelor of Computer Science - GPA 3.71
 
-## Work Experience:
+## 👩‍💻 Work Experience:
 #### 1. [Universitas Ahmad Dahlan](https://uad.ac.id/en/)  | Practice Assistance | Yogyakarta `Sept'2020 - 22 Jan 2021`
-   - Practice Assistance of Web Technology
-   - Practice Assistance of Computer Networks
+   - Practice Assistance of Web Technology and Computer Networks class
    - Present material and assisting practicum participants , as well as to help problem solving when practicum participants have blocker and help lecturer to records absences and test scores of practicum participants
      
 #### 2. [Ruang Ekspresi](https://www.instagram.com/ruangekspresi.uad/) | UI/UX Design Intern | Yogyakarta `1 March - 1 Jun 2021`
@@ -73,3 +66,14 @@ Software QA Engineer in Project Lion Parcel
 - Communicative
 - Problem solving
 - Responsibility and honesty
+
+
+## ⚡ Technologies
+![Robotframework](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+
