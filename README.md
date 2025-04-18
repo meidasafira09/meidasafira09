@@ -1,6 +1,6 @@
 # Hi there, I'm Meida Safira 👋
 ## 📌 About me:
-- Software QA Engineer Manual and Automation testing (with tools:[Robot framework](https://robotframework.org/), [Katalon Studio](https://katalon.com/) and [Postman](https://www.postman.com/))
+- Experienced Software Quality Assurance Engineer with over 2 years of expertise in manual and automated testing (with tools:[Robot framework](https://robotframework.org/), [Katalon Studio](https://katalon.com/) and [Postman](https://www.postman.com/))
 - Proficient in developing test plans, test cases, report bugs and other required test documentation
 - Skilled executed Integration, Regression, Smoke test, Sanity, API Test, and UAT testing.
 - How to reach me: meidasafira53@gmail.com || www.linkedin.com/in/meida-safira 
@@ -11,7 +11,15 @@
 Bachelor of Computer Science - GPA 3.71
 
 ## 👩‍💻 Work Experience:
-     
+#### ☀️ [PT Indodev Niaga Internet (DataOn)](https://www.linkedin.com/company/dataoncorp/) | Technical QA Staff | Yogyakarta `6 May 2024 - Present`
+   - Testing Web, mobile, and API testing
+   - Develop test plan, test scenario, bugs reporting, then writing test documentation
+   - Execute test cases, both manually and through automated testing with Katalon Studio
+   - Designed and implemented comprehensive testing strategies, increasing bug discovery rate by 95%.
+   - Developed and maintained software user manuals, integrated help files, and other documentation.
+   - Collaborated closely with development and product teams to deliver high-quality software releases on time
+
+
 #### ☀️ [Refactory](https://www.linkedin.com/school/refactory-id/) | Software QA Engineer | Yogyakarta `1 Oct 2022 - 7 Oct 2023`
 ➾ Software QA Engineer in Project Lion Parcel
    - Worked in Agile Scrum Development environment and participated in Sprint planning, Sprint Retrospective, Product backlog and Daily Scrum meetings.
