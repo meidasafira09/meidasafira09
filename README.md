@@ -11,7 +11,7 @@
 Bachelor of Computer Science - GPA 3.71
 
 ## 👩‍💻 Work Experience:
-#### ☀️ [PT Indodev Niaga Internet (DataOn)](https://www.linkedin.com/company/dataoncorp/) | Technical QA Staff | Yogyakarta `6 May 2024 - Present`
+#### ☀️ [PT Indodev Niaga Internet (DataOn)](https://www.linkedin.com/company/dataoncorp/) | Technical QA Staff | Tangerang Selatan `6 May 2024 - Present`
    - Testing Web, mobile, and API testing
    - Develop test plan, test scenario, bugs reporting, then writing test documentation
    - Execute test cases, both manually and through automated testing with Katalon Studio
