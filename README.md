@@ -43,7 +43,6 @@ Ahmad Dahlan University – Yogyakarta<br>
 Sep 2020 - Jan 2021</p>
 <ul>
   <li>Present material and assisting practicum participants , as well as to help problem solving when practicum participants have blocker and help lecturer to records absences and test scores of practicum participants</li>
-<li> </li>
 </ul>
 
 ## 🧾 Course and Certificate:
